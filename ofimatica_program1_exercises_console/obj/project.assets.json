@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\net\\ofimatica_program1_exercises_console\\ofimatica_program1_exercises_console\\ofimatica_program1_exercises_console.vbproj",
+      "projectUniqueName": "D:\\UAGRM\\Pregrado\\Ing. Informatica\\2 Semestre\\Programacion I\\ayudantia\\ofimatica_program1_exercises_console\\ofimatica_program1_exercises_console\\ofimatica_program1_exercises_console.vbproj",
       "projectName": "ofimatica_program1_exercises_console",
-      "projectPath": "D:\\projects\\net\\ofimatica_program1_exercises_console\\ofimatica_program1_exercises_console\\ofimatica_program1_exercises_console.vbproj",
+      "projectPath": "D:\\UAGRM\\Pregrado\\Ing. Informatica\\2 Semestre\\Programacion I\\ayudantia\\ofimatica_program1_exercises_console\\ofimatica_program1_exercises_console\\ofimatica_program1_exercises_console.vbproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\net\\ofimatica_program1_exercises_console\\ofimatica_program1_exercises_console\\obj\\",
+      "outputPath": "D:\\UAGRM\\Pregrado\\Ing. Informatica\\2 Semestre\\Programacion I\\ayudantia\\ofimatica_program1_exercises_console\\ofimatica_program1_exercises_console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
